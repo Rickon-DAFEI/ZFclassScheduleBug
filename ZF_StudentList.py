@@ -19,8 +19,8 @@ check_codeUrl = Origin_url+"CheckCode.aspx"
 
 head = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","Connection": "keep-alive"}
 post_data = {'Textbox1':'none',"Button1":"","lbLanguage":"","hidPdrs":"","hidsc":""}
-user_name = '20070035'  
-user_password = '123.com'
+user_name = #
+user_password = #
 xm = user_name
 
 def login():
